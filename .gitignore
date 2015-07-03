@@ -30,3 +30,9 @@
 
 # Debug files
 *.dSYM/
+
+.cproject
+.project
+.settings/
+out/
+obj/
